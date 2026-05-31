@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaserecrypt",
+        "uuid": 21947268,
+        "checksum": "zag4s6"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
